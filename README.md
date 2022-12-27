@@ -1,3 +1,5 @@
+# -- Image classifier to classify handwritten Arabic language characters -- 
+
 This is the capstone competition for the KAUST Introduction to ML Bootcamp. In this competition you will be asked to build an image classifier to classify handwritten Arabic language characters. In order to successfully complete the bootcamp you will need to submit predictions that achieve higher than the provided benchmark submission.
 
 Data
